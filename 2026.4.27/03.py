@@ -60,8 +60,16 @@ print(len(tuple))
 #     return modified_dic
 # print(add_one(dic))
 
-tuple1 = (1,2,3)
-for a in tuple1 :
-    print(a)
+# tuple1 = (1,2,3)
+# for a in tuple1 :
+#     print(a)
 
+# b = 1
+# a = b
+# a = 2
+# print(b)
 
+num = [4,6,1,9]
+
+sorted(num)
+print(num)

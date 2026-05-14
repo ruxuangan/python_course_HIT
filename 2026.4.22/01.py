@@ -48,7 +48,9 @@ print(f"All {item_a} cost {price_a*quantity_a} and all {item_b} cost {price_b*qu
 print(bool(0))
 '''
 
-a = "string"
-print(a[1:6])
-print(a[1:])
-print(a[:6])
+# a = "string"
+# print(a[1:6])
+# print(a[1:])
+# print(a[:6])
+a = 5.2
+print(isdigit(a))

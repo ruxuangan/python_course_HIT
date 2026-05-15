@@ -1,1 +1,3 @@
-1984, Gan, 1984, fiction, True
+aaa|aab|666|j|Unread
+zhou|zhou|2008|j|Read
+gan|gan|999|n|Read

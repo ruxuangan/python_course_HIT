@@ -24,15 +24,15 @@
 
 # print(p1_person.compute_age())
 
-import os
-print(os.getcwd())
+# import os
+# print(os.getcwd())
 
-my_file = open( file = "sample.txt" , mode="w")
-my_file.write('Hello file!')
-my_file.write('\n')
-my_file.write('This is me!')
-my_file.close()
-my_file = open(file='sample.txt', mode='r')
-file_output = my_file.readlines()
-print(file_output)
-my_file.close()
+# my_file = open( file = "sample.txt" , mode="w")
+# my_file.write('Hello file!')
+# my_file.write('\n')
+# my_file.write('This is me!')
+# my_file.close()
+# my_file = open(file='sample.txt', mode='r')
+# file_output = my_file.readlines()
+# print(file_output)
+# my_file.close()

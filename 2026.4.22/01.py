@@ -52,5 +52,7 @@ print(bool(0))
 # print(a[1:6])
 # print(a[1:])
 # print(a[:6])
-a = 5.2
-print(isdigit(a))
+# a = 5.2
+# print(isdigit(a))
+
+print(5//3)

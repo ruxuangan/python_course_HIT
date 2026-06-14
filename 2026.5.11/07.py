@@ -112,7 +112,7 @@ print(df_low)
 
 # # price dist. per energy level and per tenure
 # plt.figure(figsize = (10,3));
-# sns.boxplot( data = df_low , x = 'energy' , y = 'price', hue = 'tenure');
+sns.boxplot( data = df_low , x = 'energy' , y = 'price', hue = 'tenure');
 
 # Note : select numerical cols
 df_num = df_low.select_dtypes( include = 'number')
